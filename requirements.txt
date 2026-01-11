@@ -1,0 +1,21 @@
+1. Programming Language 
+    Python 3.14
+
+2. Libraries / Frameworks
+    pandas
+    numpy
+    scikit-learn
+    matplotlib
+    seaborn
+    plotly
+    MySQL
+    PyMySQL
+    pickle
+    streamlit
+
+3. Tools
+    VS Code / Jupyter Notebook
+    MySQL Workbench
+    Streamlit browser UI
+    Git & GitHub
+
